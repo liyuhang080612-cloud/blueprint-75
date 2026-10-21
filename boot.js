@@ -1,1 +1,45 @@
-LyogSW5kZXBlbmRlbnQsIGNsYXNzaWMtc2NyaXB0IGxvYWRpbmcgZ3VhcmQuIE5vIHJlcXVlc3RzLCByZWRpcmVjdHMgb3IgYW5hbHl0aWNzLiAqLwooZnVuY3Rpb24gKCkgewogICd1c2Ugc3RyaWN0JzsKICB2YXIgZmFpbGVkID0gZmFsc2UsIHNldHRsZWQgPSBmYWxzZSwgcG9sbCwgdGltZXI7CiAgdmFyIG1lc3NhZ2UgPSAnJzsKICBmdW5jdGlvbiByZWFkeSgpIHsKICAgIHZhciByb290ID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3Jvb3QnKTsKICAgIHZhciBzdHlsZWQgPSB3aW5kb3cuZ2V0Q29tcHV0ZWRTdHlsZShkb2N1bWVudC5kb2N1bWVudEVsZW1lbnQpLmdldFByb3BlcnR5VmFsdWUoJy0tbmF2eScpLnRyaW0oKTsKICAgIGlmICghcm9vdCB8fCByb290LmdldEF0dHJpYnV0ZSgnZGF0YS1hcHAtcmVhZHknKSAhPT0gJ3RydWUnIHx8ICFzdHlsZWQpIHJldHVybiBmYWxzZTsKICAgIHJvb3QuaGlkZGVuID0gZmFsc2U7CiAgICB2YXIgc2NyZWVuID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2Jvb3Qtc2NyZWVuJyk7CiAgICBpZiAoc2NyZWVuKSBzY3JlZW4uaGlkZGVuID0gdHJ1ZTsKICAgIHNldHRsZWQgPSB0cnVlOwogICAgY2xlYXJJbnRlcnZhbChwb2xsKTsgY2xlYXJUaW1lb3V0KHRpbWVyKTsKICAgIHdpbmRvdy5yZW1vdmVFdmVudExpc3RlbmVyKCdibHVlcHJpbnQ6cmVhZHknLCByZWFkeSk7CiAgICB3aW5kb3cucmVtb3ZlRXZlbnRMaXN0ZW5lcignbG9hZCcsIHJlYWR5LCB0cnVlKTsKICAgIHdpbmRvdy5yZW1vdmVFdmVudExpc3RlbmVyKCdlcnJvcicsIGZhaWwsIHRydWUpOwogICAgd2luZG93LnJlbW92ZUV2ZW50TGlzdGVuZXIoJ3VuaGFuZGxlZHJlamVjdGlvbicsIGZhaWwpOwogICAgcmV0dXJuIHRydWU7CiAgfQogIGZ1bmN0aW9uIHNob3coKSB7CiAgICBpZiAocmVhZHkoKSkgcmV0dXJuOwogICAgdmFyIHN0YXR1cyA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdib290LXN0YXR1cycpOwogICAgaWYgKHN0YXR1cyAmJiBtZXNzYWdlKSBzdGF0dXMudGV4dENvbnRlbnQgPSBtZXNzYWdlOwogIH0KICBmdW5jdGlvbiBmYWlsKGV2ZW50KSB7CiAgICBpZiAoc2V0dGxlZCkgcmV0dXJuOwogICAgdmFyIHRhcmdldCA9IGV2ZW50LnRhcmdldDsKICAgIGlmIChldmVudC50eXBlID09PSAndW5oYW5kbGVkcmVqZWN0aW9uJyB8fCB0YXJnZXQgPT09IHdpbmRvdyB8fCAodGFyZ2V0ICYmIC9eKFNDUklQVHxMSU5LKSQvLnRlc3QodGFyZ2V0LnRhZ05hbWUpKSkgewogICAgICBmYWlsZWQgPSB0cnVlOyBtZXNzYWdlID0gJ+mDqOWIhui1hOa6kOayoeacieWujOaVtOWKoOi9veOAgic7IHNob3coKTsKICAgIH0KICB9CiAgd2luZG93LmFkZEV2ZW50TGlzdGVuZXIoJ2JsdWVwcmludDpyZWFkeScsIHJlYWR5KTsKICB3aW5kb3cuYWRkRXZlbnRMaXN0ZW5lcignbG9hZCcsIHJlYWR5LCB0cnVlKTsKICB3aW5kb3cuYWRkRXZlbnRMaXN0ZW5lcignZXJyb3InLCBmYWlsLCB0cnVlKTsKICB3aW5kb3cuYWRkRXZlbnRMaXN0ZW5lcigndW5oYW5kbGVkcmVqZWN0aW9uJywgZmFpbCk7CiAgcG9sbCA9IHNldEludGVydmFsKHNob3csIDIwMCk7CiAgdGltZXIgPSBzZXRUaW1lb3V0KGZ1bmN0aW9uICgpIHsKICAgIGNsZWFySW50ZXJ2YWwocG9sbCk7CiAgICBpZiAocmVhZHkoKSkgcmV0dXJuOwogICAgaWYgKCFmYWlsZWQpIG1lc3NhZ2UgPSAn6L+e5o6l5q+U6aKE5pyf5oWi77yM6JOd5Zu+5LuN5Zyo5Yqg6L2944CCJzsKICAgIHNob3coKTsKICB9LCAxMjAwMCk7CiAgc2hvdygpOwp9KCkpOwo=
+/* Independent, classic-script loading guard. No requests, redirects or analytics. */
+(function () {
+  'use strict';
+  var failed = false, settled = false, poll, timer;
+  var message = '';
+  function ready() {
+    var root = document.getElementById('root');
+    var styled = window.getComputedStyle(document.documentElement).getPropertyValue('--navy').trim();
+    if (!root || root.getAttribute('data-app-ready') !== 'true' || !styled) return false;
+    root.hidden = false;
+    var screen = document.getElementById('boot-screen');
+    if (screen) screen.hidden = true;
+    settled = true;
+    clearInterval(poll); clearTimeout(timer);
+    window.removeEventListener('blueprint:ready', ready);
+    window.removeEventListener('load', ready, true);
+    window.removeEventListener('error', fail, true);
+    window.removeEventListener('unhandledrejection', fail);
+    return true;
+  }
+  function show() {
+    if (ready()) return;
+    var status = document.getElementById('boot-status');
+    if (status && message) status.textContent = message;
+  }
+  function fail(event) {
+    if (settled) return;
+    var target = event.target;
+    if (event.type === 'unhandledrejection' || target === window || (target && /^(SCRIPT|LINK)$/.test(target.tagName))) {
+      failed = true; message = '部分资源没有完整加载。'; show();
+    }
+  }
+  window.addEventListener('blueprint:ready', ready);
+  window.addEventListener('load', ready, true);
+  window.addEventListener('error', fail, true);
+  window.addEventListener('unhandledrejection', fail);
+  poll = setInterval(show, 200);
+  timer = setTimeout(function () {
+    clearInterval(poll);
+    if (ready()) return;
+    if (!failed) message = '连接比预期慢，蓝图仍在加载。';
+    show();
+  }, 12000);
+  show();
+}());
